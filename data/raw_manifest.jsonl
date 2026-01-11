@@ -1,0 +1,24 @@
+{
+	"source_id": "",
+	"url": "",
+	"downloaded_at": "",
+	"raw_path": "",
+	"filename": "",
+	"file_type": "",
+	"http_status": "",
+	"sha256": "",
+	"allowed_use": "",
+	"notes": ""
+}
+{
+	"source_id": "O-02",
+	"url": "http://icfes.acendra.com.co/wp-content/uploads/2024/12/01_EXPLICADAS_LECTURA.pdf",
+	"downloaded_at": "2026-01-12",
+	"raw_path": "data/raw/official/icfes/cuadernillos/",
+	"filename": "O-02__EXPLICADAS_LECTURA.pdf",
+	"file_type": "pdf",
+	"http_status": "200",
+	"sha256": "<hash>",
+	"allowed_use": "internal_only",
+	"notes": "PDF oficial ICFES; uso interno"
+}
